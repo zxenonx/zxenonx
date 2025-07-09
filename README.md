@@ -39,7 +39,7 @@ I’m a Python Backend Engineer with **6+ years** of experience building **scala
 
 | Backend         | DevOps & Infra       | Databases     | Other |
 |----------------|----------------------|---------------|-------|
-| Django, DRF     | Docker, GitHub Actions | PostgreSQL    | Celery |
+| Django, DRF     | Docker, GitHub Actions | PostgreSQL    | Celery, Kombu |
 | FastAPI        | AWS (EC2, S3)        | Redis, SQLite | RabbitMQ |
 | TypeScript | CI/CD Pipelines | RabbitMQ       | Linux |
 
