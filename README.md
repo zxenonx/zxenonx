@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Zxenon — Python Developer | Backend Engineer | Software Craftsman
+# Python Developer | Backend Engineer | Software Craftsman
 
 <img align="right" width="390" src="https://raw.githubusercontent.com/zxenonx/zxenonx/main/assets/code-thinking.gif" alt="Coding animation" />
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-I’m a Python Backend Engineer with **6+ years** of experience building **scalable fintech and financial systems**, including **payment gateways**, **messaging platforms**, and **multi-tenant SaaS platforms**. My work is focused on crafting **robust APIs**, integrating **real-world systems**, and delivering features that scale smoothly in production, all while thriving in remote and fast-moving environments.
+I’m a Python Backend Engineer with **5+ years** of experience building **scalable fintech and financial systems**, including **payment gateways**, **messaging platforms**, and **multi-tenant SaaS platforms**. My work is focused on crafting **robust APIs**, integrating **real-world systems**, and delivering features that scale smoothly in production, all while thriving in remote and fast-moving environments.
 
 🔧 **Core Expertise**  
 `Python` · `FastAPI` ·`Django` · `PostgreSQL` · `Docker` · `Celery` · `Redis` · `AWS` · `React/Nextjs` · `TypeScript`
@@ -20,8 +20,7 @@ I’m a Python Backend Engineer with **6+ years** of experience building **scala
 - Delivered async processing, CI/CD pipelines, and caching to ensure performance & reliability
 
 🌍 **Currently Based In:** Cloud, Earth  
-📫 **Email:** xenon.nemrod@gmail.com  
-🔗 [GitHub](https://github.com/zxenonx)
+📫 **Email:** xenon.nemrod@gmail.com
 
 ---
 <!--
