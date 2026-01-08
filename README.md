@@ -44,18 +44,6 @@ I’m a Python Backend Engineer with **5+ years** of experience building **scala
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxenonx&show_icons=true&hide_border=true&count_private=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxenonx" width="47%" />
-</p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxenonx&layout=compact)
-
----
-
 ## 📌 Currently Open to
 - Fullstack / Backend Engineering Roles  
 - Remote-friendly Fintech or SaaS startups  
