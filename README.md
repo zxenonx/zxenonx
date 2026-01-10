@@ -8,7 +8,9 @@
 </div>
 <br/>
 
-I’m a Python Backend Engineer with **5+ years** of experience building **scalable fintech and financial systems**, including **payment gateways**, **messaging platforms**, and **multi-tenant SaaS platforms**. My work is focused on crafting **robust APIs**, integrating **real-world systems**, and delivering features that scale smoothly in production, all while thriving in remote and fast-moving environments.
+I’m a Python Backend Engineer with 5+ years of experience building and scaling fintech and financial systems — from payment gateways and real‑time messaging platforms to multi‑tenant SaaS products.
+
+I focus on clean architecture, reliability, and performance, crafting APIs and backend systems that hold up in production. I’m comfortable working in remote, fast‑moving teams, and I enjoy turning complex real‑world problems into maintainable software.
 
 🔧 **Core Expertise**  
 `Python` · `FastAPI` ·`Django` · `PostgreSQL` · `Docker` · `Celery` · `Redis` · `AWS` · `React/Nextjs` · `TypeScript`
@@ -16,8 +18,9 @@ I’m a Python Backend Engineer with **5+ years** of experience building **scala
 💡 **What I’ve Done**  
 - Built and maintained REST API endpoints for fintech and real-time messaging systems  
 - Deployed features that support **$10K+ monthly transactions** with **99.9% uptime**  
-- Designed multi-tenant platforms for **3K+ users** with **95%+ test coverage**  
-- Delivered async processing, CI/CD pipelines, and caching to ensure performance & reliability
+- Designed multi-tenant platforms for **3K+ users** with **95%+ test coverage**
+- Implemented async processing, caching, and background jobs to improve performance and reliability
+- Designed CI/CD pipelines, and caching
 
 🌍 **Currently Based In:** Cloud, Earth  
 📫 **Email:** xenon.nemrod@gmail.com
