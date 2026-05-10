@@ -23,8 +23,6 @@ I focus on clean architecture, reliability, and performance, crafting APIs and b
 - Designed CI/CD pipelines, and caching
 
 🌍 **Currently Based In:** Cloud, Earth  
-📫 **Email:** xenon.nemrod@gmail.com
-
 ---
 <!--
 ## 🚀 Featured Projects
