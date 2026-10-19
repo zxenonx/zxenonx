@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Python Developer | Backend Engineer | Software Craftsman
+# Senior Python Developer | Backend Engineer | Software Craftsman
 
 <img align="right" width="390" src="https://raw.githubusercontent.com/zxenonx/zxenonx/main/assets/code-thinking.gif" alt="Coding animation" />
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-I’m a Python Backend Engineer with 5+ years of experience building and scaling fintech and financial systems — from payment gateways and real‑time messaging platforms to multi‑tenant SaaS products.
+I’m a Senior Python Backend Engineer with 7+ years of experience building and scaling fintech and financial systems — from payment gateways and real‑time messaging platforms to multi‑tenant SaaS products.
 
 I focus on clean architecture, reliability, and performance, crafting APIs and backend systems that hold up in production. I’m comfortable working in remote, fast‑moving teams, and I enjoy turning complex real‑world problems into maintainable software.
 
