@@ -13,7 +13,7 @@ I’m a Senior Python Backend Engineer with 7+ years of experience building and 
 I focus on clean architecture, reliability, and performance, crafting APIs and backend systems that hold up in production. I’m comfortable working in remote, fast‑moving teams, and I enjoy turning complex real‑world problems into maintainable software.
 
 🔧 **Core Expertise**  
-`Python` · `FastAPI` ·`Django` · `PostgreSQL` · `Docker` · `Celery` · `Redis` · `AWS` · `React/Nextjs` · `TypeScript`
+`Python` · `FastAPI` ·`Django` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `pytest` · `Celery` · `Redis` · `AWS` · `React/Nextjs` · `TypeScript`
 
 💡 **What I’ve Done**  
 - Built and maintained REST API endpoints for fintech and real-time messaging systems  
